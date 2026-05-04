@@ -1,5 +1,5 @@
 # 🎣 Phishing Email Detection & Awareness Report
-### Future Interns Cybersecurity Task 2 (2026)
+### Cybersecurity Task 2 (2026)
 
 ![Type](https://img.shields.io/badge/Type-Phishing%20Analysis-red)
 ![Emails](https://img.shields.io/badge/Emails%20Analyzed-3-orange)
@@ -11,7 +11,7 @@
 ## 📌 About This Report
 
 This repository contains the Phishing Email Detection & Awareness Report
-produced as part of **Future Interns Cybersecurity Task 2 (2026)**.
+produced as part of ** Cybersecurity Task 2 (2026)**.
 
 Three real-world phishing email samples were analyzed using professional
 SOC analyst techniques. No malicious links were clicked, no emails were
@@ -55,9 +55,9 @@ replied to, and no illegal activity was performed.
 ## 👤 Analyst
 
 **Mack (Siva Sanjay Muthu T)**
-Future Interns — Cybersecurity Intern (2026)
+Cybersecurity (2026)
 🔗 [LinkedIn](https://linkedin.com/in/siva-sanjay-muthu-t-823318304)
 🐙 [GitHub](https://github.com/mackshema)
 
 ---
-*Future Interns · Cybersecurity Task 2 · 2026*
+Cybersecurity Task 2 · 2026*
